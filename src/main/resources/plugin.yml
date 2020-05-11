@@ -1,0 +1,8 @@
+name: PrevariniteChat
+version: @version@
+main: com.prevarinite.prevarinitechat.PrevariniteChat
+api-version: 1.13
+prefix: PrevariniteChat
+authors: [BomBardyGamer, Yugi]
+description: An advanced chat plugin with Redis support
+website: Prevarinite.com
